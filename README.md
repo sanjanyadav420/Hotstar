@@ -12,5 +12,9 @@ Link :- https://preeminent-marzipan-04585e.netlify.app
 # Trending Page
 ![Screenshot 2022-11-16 132143](https://user-images.githubusercontent.com/101393474/202120590-8eedf477-a0bf-43c3-8164-1ce927192325.png)
 
+# sreach Bar
+
+![Screenshot 2022-11-16 132340](https://user-images.githubusercontent.com/101393474/202121741-dafd1df2-77d4-40cb-83f0-d7931e398899.png)
+
 
 
